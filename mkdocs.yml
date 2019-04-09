@@ -3,3 +3,5 @@ repo_url: https://github.com/inex-dev/opc-server-doc.git
 plugins:
     - search:
         lang: [ru, en]
+theme:
+  name: 'material'        
