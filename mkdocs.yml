@@ -1,5 +1,4 @@
 site_name: Inex OPC сервер
-repo_url: https://github.com/inex-dev/opc-server-doc.git
 
 nav:
     - Введение: index.md
