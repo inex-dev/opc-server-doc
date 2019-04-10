@@ -3,6 +3,11 @@ site_name: Inex OPC сервер
 nav:
     - Введение: index.md
     - Установка и настройка Inex OPC сервера: install-and-settings.md
+    - Справка по API: 
+        - Интерфейсы: api-references-interfaces.md
+        - Классы: api-references-classes.md
+        - Структуры: api-references-structs.md
+        - Перечисления: api-references-enums.md
 
 plugins:
     - search:
