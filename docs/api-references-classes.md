@@ -93,6 +93,8 @@ IsCancelRequested | bool | R | false | Значение свойства рав�
 Branches | TreeItemCollection&lt;Branch&gt; | R | коллекция | Коллекция дочерних папок
 Leaves | TreeItemCollection&lt;Leaf&gt; | R | коллекция | Коллекция дочерних тегов
 
+---
+
 ## Класс Leaf
 
 Пространство имен: OpcSrv.Shared.Browse

@@ -8,6 +8,7 @@ nav:
         - Классы: api-references-classes.md
         - Структуры: api-references-structs.md
         - Перечисления: api-references-enums.md
+    - Пример источника данных: sample-ds.md
 
 plugins:
     - search:
