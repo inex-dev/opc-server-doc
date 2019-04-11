@@ -91,3 +91,8 @@ _&lt;path_to_install&gt;\storage\cfg\OpcSrv.config_
   <opcMinUpdateRate>100</opcMinUpdateRate>
 </Settings>
 ```
+## Настройка ведения журналов работы
+
+Для ведения журналов работы **Inex OPC сервер** использует популярную библиотеку **NLog**. Если Вы не знакомы с этой библиотекой, можете обратиться к ее [оригинальной документации](https://github.com/nlog/nlog/wiki).
+
+Файл настройки **NLog** расположен то пути _&lt;path_to_install&gt;\storage\cfg\NLog.config_.
