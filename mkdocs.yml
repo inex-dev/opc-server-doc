@@ -9,6 +9,7 @@ nav:
         - Структуры: api-references-structs.md
         - Перечисления: api-references-enums.md
     - Пример источника данных: sample-ds.md
+    - Пример конфигурации и подключения МЭК104: conf-iec104.md
 
 plugins:
     - search:
