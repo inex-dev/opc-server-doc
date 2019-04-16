@@ -3,13 +3,14 @@ site_name: Inex OPC сервер
 nav:
     - Введение: index.md
     - Установка и настройка Inex OPC сервера: install-and-settings.md
-    - Справка по API: 
-        - Интерфейсы: api-references-interfaces.md
-        - Классы: api-references-classes.md
-        - Структуры: api-references-structs.md
-        - Перечисления: api-references-enums.md
-    - Пример источника данных: sample-ds.md
-    - Пример конфигурации и подключения МЭК104: conf-iec104.md
+    - Подключение МЭК104: conf-iec104.md
+    - Разработка источников данных:
+        - Справка по API: 
+            - Интерфейсы: api-references-interfaces.md
+            - Классы: api-references-classes.md
+            - Структуры: api-references-structs.md
+            - Перечисления: api-references-enums.md
+        - Пример источника данных: sample-ds.md
 
 plugins:
     - search:

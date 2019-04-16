@@ -116,7 +116,7 @@ Description | string | RW | null | Описание тега
 Kind | TreeItemKind | R | TreeItemKind.Leaf | Тип элемента
 Type | DataType | RW | N/A | Тип данных тега
 Readable | bool | RW | true | Возможность чтения значения тега
-Readable | bool | RW | false | Возможность записи значения тега
+Writeable | bool | RW | false | Возможность записи значения тега
 HiLimit | double? | RW | null | Технический максимум значения тега
 HiHiLimit | double? | RW | null | Аварийный максимум значения тега
 LoLimit | double? | RW | null | Технический минимум значения тега
