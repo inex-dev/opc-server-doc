@@ -2,6 +2,13 @@
 
 ## Структура ItemValue
 
+Пространство имен: OpcSrv.Shared
+
+Сборка: OpcSrv.Shared.dll
+
+!!!summary "C#"
+    **public struct ItemValue**
+
 Структура описывает единичное значение тега
 
 ### Свойства
