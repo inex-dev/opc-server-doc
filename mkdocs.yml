@@ -3,7 +3,8 @@ site_name: Inex OPC сервер
 nav:
     - Введение: index.md
     - Установка и настройка Inex OPC сервера: install-and-settings.md
-    - Подключение МЭК104: conf-iec104.md
+    - Источники данных:
+        - МЭК104: conf-iec104.md
     - Разработка источников данных:
         - Справка по API: 
             - Интерфейсы: api-references-interfaces.md
